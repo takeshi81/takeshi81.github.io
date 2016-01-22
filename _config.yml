@@ -1,0 +1,15 @@
+# Site settings
+title: ひとりWeb開発者日報
+#email: takeshi.igarashi@gmail.com
+description: フリーランスデザイナー兼Webエンジニアっぽい人の日記
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://takeshi81.github.io" # the base hostname & protocol for your site
+permalink: /:year/:month/:title
+timezone: Asia/Tokyo
+twitter_username: takeshi81
+github_username: takeshi81
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM

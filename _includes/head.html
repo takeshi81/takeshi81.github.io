@@ -7,11 +7,11 @@
 	<meta name="twitter:site" content="@takeshi81">
 	<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 	<meta name="twitter:description" content="{{ site.description }}">
-	<meta property="og:url" content="{{ page.guid }}}}" />
-	<meta property="og:type" content="article" />
-	<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-	<meta property="og:description" content="{{ site.description }}" />
-	<meta property="og:image" content="http://static01.nyt.com/images/2015/02/19/arts/international/19iht-btnumbers19A/19iht-btnumbers19A-facebookJumbo-v2.jpg" />
+	<meta property="og:url" content="{{ page.guid }}}}">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+	<meta property="og:description" content="{{ site.description }}">
+	<meta property="og:image" content="">
 	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 	<link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.baseurl }}">
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">

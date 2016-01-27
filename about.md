@@ -1,11 +1,43 @@
 ---
 layout: page
-title: About
+title: Who am I?
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+# Profile
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+都心から少し離れた自宅や、都区内や日本のあちこちを彷徨いながら仕事をしている、Web開発者&デザイナーです。
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+半期に一度くらい投稿している[ブログ](https://takeshi81.github.io/)や、忘れやすい手順を書き残してある[Qiita](http://qiita.com/takeshi81)、完全に放置しているので何とかしたい[ポートフォリオサイト](https://idw.jp/)、気まぐれに言葉の切れ端を飛び散らかしている[Twitter](https://twitter.com/takeshi81/)と[Facebook](https://facebook.com/takeshi81/)など、Webのあちこちにテキストを散乱させております。
+
+## 最近はまっていることは?
+
+カピバラに会いに行きます。伊豆シャボテン公園、埼玉県こども動物自然公園、那須どうぶつ王国に行ったので、長崎バイオパークを攻略すれば、カピバラ4大聖地制覇です。
+
+## 趣味や特技は?
+
+写真を撮ること、ポルトガル語、パソコンのバラシ（解体）が得意です。
+
+## 好きなアニメ/映画/ドラマ/漫画/小説/作家は?
+
+中島らもと筒井康隆の作品が好きです。
+
+## 好きな音楽は?
+
+ジャンル、新旧、国内外問わず。最近のお気に入りは、METAFIVE、Young Juvenile Youth、TOWA TEI、サカナクション。
+
+## 好きな場所/おすすめスポットは?
+
+吉祥寺、西荻窪、高円寺の雑貨屋さんやカフェや得体の知れないお店など。
+
+## 将来の夢は?
+
+フリーのエバンジェリスト。
+
+## 最近の悩みは?
+
+はたらけど、はたらけど猶わが生活楽にならざり、の状態から抜けられないのが悩み。
+
+## 休日の過ごし方は?
+
+ネコの観察、昼寝、読書。

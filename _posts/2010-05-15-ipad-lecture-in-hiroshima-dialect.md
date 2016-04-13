@@ -5,7 +5,7 @@ date: 2010-05-15T05:33:25+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=913
-permalink: /2010/05/ipad-lecture-in-hiroshima-dialect/
+
 categories:
   - 日々
 tags:

@@ -5,7 +5,7 @@ date: 2006-01-01T02:27:36+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/blog/2006/01/feliz-ano-novo/
-permalink: /2006/01/feliz-ano-novo/
+
 categories:
   - 日々
 tags:

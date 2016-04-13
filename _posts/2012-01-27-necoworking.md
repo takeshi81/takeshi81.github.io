@@ -5,7 +5,7 @@ date: 2012-01-27T10:00:46+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=1519
-permalink: /2012/01/necoworking/
+
 categories:
   - 仕事
 tags:

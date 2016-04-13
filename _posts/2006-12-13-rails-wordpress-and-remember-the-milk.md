@@ -5,7 +5,7 @@ date: 2006-12-13T02:37:00+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/blog/2006/12/rails-wordpress-and-remember-the-milk/
-permalink: /2006/12/rails-wordpress-and-remember-the-milk/
+
 categories:
   - 日々
 tags:

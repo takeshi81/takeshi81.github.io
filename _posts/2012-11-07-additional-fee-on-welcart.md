@@ -5,7 +5,7 @@ date: 2012-11-07T12:48:24+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=1721
-permalink: /2012/11/additional-fee-on-welcart/
+
 categories:
   - 仕事
 tags:

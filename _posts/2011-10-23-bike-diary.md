@@ -5,7 +5,7 @@ date: 2011-10-23T01:24:10+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=1369
-permalink: /2011/10/bike-diary/
+
 categories:
   - 日々
 tags:

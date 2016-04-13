@@ -5,7 +5,7 @@ date: 2010-07-25T10:15:43+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=948
-permalink: /2010/07/olympus-pen-lite-e-pl1/
+
 categories:
   - 仕事
 tags:

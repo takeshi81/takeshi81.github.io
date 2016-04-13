@@ -5,7 +5,7 @@ date: 2005-12-13T03:10:49+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/blog/2005/12/vingtaine/
-permalink: /2005/12/vingtaine/
+
 categories:
   - 日々
 tags:

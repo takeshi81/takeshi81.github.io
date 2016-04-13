@@ -5,7 +5,7 @@ date: 2011-03-15T21:08:06+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=1255
-permalink: /2011/03/we-are-safe/
+
 categories:
   - 日々
 ---

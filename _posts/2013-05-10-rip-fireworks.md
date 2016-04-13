@@ -5,7 +5,7 @@ date: 2013-05-10T09:00:38+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=1784
-permalink: /2013/05/rip-fireworks/
+
 authorsure_include_css:
   - 
 categories:

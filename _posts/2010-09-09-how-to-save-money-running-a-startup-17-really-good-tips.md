@@ -5,7 +5,7 @@ date: 2010-09-09T00:37:22+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=1112
-permalink: /2010/09/how-to-save-money-running-a-startup-17-really-good-tips/
+
 categories:
   - 仕事
 tags:

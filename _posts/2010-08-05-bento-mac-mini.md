@@ -5,7 +5,7 @@ date: 2010-08-05T23:37:49+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=983
-permalink: /2010/08/bento-mac-mini/
+
 categories:
   - 日々
 tags:

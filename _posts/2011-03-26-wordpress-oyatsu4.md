@@ -5,7 +5,7 @@ date: 2011-03-26T23:24:51+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=1260
-permalink: /2011/03/wordpress-oyatsu4/
+
 categories:
   - 仕事
 tags:

@@ -5,7 +5,7 @@ date: 2007-01-25T02:16:00+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/blog/2007/01/here-we-are-marble-%e6%96%b0%e9%ab%98%e5%86%86%e5%af%ba/
-permalink: /2007/01/here-we-are-marble-%e6%96%b0%e9%ab%98%e5%86%86%e5%af%ba/
+
 categories:
   - 日々
 tags:

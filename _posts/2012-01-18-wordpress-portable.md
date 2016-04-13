@@ -5,7 +5,7 @@ date: 2012-01-18T12:47:37+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=1502
-permalink: /2012/01/wordpress-portable/
+
 categories:
   - 仕事
 tags:

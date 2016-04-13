@@ -5,7 +5,7 @@ date: 2006-12-13T23:54:00+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/blog/2006/12/excursxj%ef%bf%bd/
-permalink: /2006/12/excursxj%ef%bf%bd/
+
 categories:
   - 日々
 tags:

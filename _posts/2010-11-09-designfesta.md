@@ -5,7 +5,7 @@ date: 2010-11-09T05:05:18+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=1165
-permalink: /2010/11/designfesta/
+
 categories:
   - 日々
 tags:

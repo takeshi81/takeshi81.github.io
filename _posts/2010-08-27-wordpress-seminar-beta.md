@@ -5,7 +5,7 @@ date: 2010-08-27T04:43:47+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=1075
-permalink: /2010/08/wordpress-seminar-beta/
+
 categories:
   - 仕事
 tags:

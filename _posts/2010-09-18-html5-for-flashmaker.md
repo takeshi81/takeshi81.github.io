@@ -5,7 +5,7 @@ date: 2010-09-18T04:05:12+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=1138
-permalink: /2010/09/html5-for-flashmaker/
+
 categories:
   - 仕事
 tags:

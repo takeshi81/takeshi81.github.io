@@ -5,7 +5,7 @@ date: 2012-01-10T10:00:51+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=1469
-permalink: /2012/01/google-apps-script-mailform/
+
 categories:
   - 仕事
 tags:

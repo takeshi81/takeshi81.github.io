@@ -5,7 +5,7 @@ date: 2006-11-29T02:51:00+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/blog/2006/11/internet-explorer-6-%e3%81%a8-internet-explorer-7-%e3%82%92%e5%85%b1%e5%ad%98%e3%81%95%e3%81%9b%e3%82%8b/
-permalink: /2006/11/internet-explorer-6-%e3%81%a8-internet-explorer-7-%e3%82%92%e5%85%b1%e5%ad%98%e3%81%95%e3%81%9b%e3%82%8b/
+
 categories:
   - 仕事
 tags:

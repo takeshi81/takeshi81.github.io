@@ -5,7 +5,7 @@ date: 2010-06-24T04:13:20+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=922
-permalink: /2010/06/overheated/
+
 categories:
   - 仕事
 tags:

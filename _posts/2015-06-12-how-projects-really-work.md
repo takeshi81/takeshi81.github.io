@@ -5,7 +5,7 @@ date: 2015-06-12T15:23:38+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=2321
-permalink: /2015/06/how-projects-really-work/
+
 categories:
   - 仕事
 tags:

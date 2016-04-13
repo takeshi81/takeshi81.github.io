@@ -5,7 +5,7 @@ date: 2009-07-30T16:34:09+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=290
-permalink: /2009/07/calculate-consumption-tax/
+
 categories:
   - 仕事
 tags:

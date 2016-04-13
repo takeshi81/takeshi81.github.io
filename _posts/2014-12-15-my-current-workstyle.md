@@ -5,7 +5,7 @@ date: 2014-12-15T23:43:16+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=2107
-permalink: /2014/12/my-current-workstyle/
+
 categories:
   - 日々
 tags:

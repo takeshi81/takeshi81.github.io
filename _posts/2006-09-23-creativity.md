@@ -5,7 +5,7 @@ date: 2006-09-23T00:27:00+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/blog/2006/09/creativity/
-permalink: /2006/09/creativity/
+
 categories:
   - 日々
 tags:

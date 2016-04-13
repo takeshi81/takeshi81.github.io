@@ -5,7 +5,7 @@ date: 2012-09-21T16:01:57+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=1673
-permalink: /2012/09/nordic-goods-store/
+
 categories:
   - 仕事
 tags:

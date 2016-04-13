@@ -5,7 +5,7 @@ date: 2010-03-03T16:20:59+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=893
-permalink: /2010/03/teach-and-learn/
+
 categories:
   - 日々
 tags:

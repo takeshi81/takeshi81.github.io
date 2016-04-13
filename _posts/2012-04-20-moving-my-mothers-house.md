@@ -5,7 +5,7 @@ date: 2012-04-20T10:00:54+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=1631
-permalink: /2012/04/moving-my-mothers-house/
+
 categories:
   - 日々
 tags:

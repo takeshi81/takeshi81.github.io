@@ -5,7 +5,7 @@ date: 2012-02-23T10:00:09+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=1596
-permalink: /2012/02/day-of-cats/
+
 categories:
   - 日々
 tags:

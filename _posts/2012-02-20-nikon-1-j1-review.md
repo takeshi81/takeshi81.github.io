@@ -5,7 +5,7 @@ date: 2012-02-20T10:00:10+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=1575
-permalink: /2012/02/nikon-1-j1-review/
+
 categories:
   - 日々
 tags:

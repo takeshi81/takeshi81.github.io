@@ -5,7 +5,7 @@ date: 2012-02-27T10:00:15+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=1604
-permalink: /2012/02/j1-portability/
+
 categories:
   - 日々
 tags:

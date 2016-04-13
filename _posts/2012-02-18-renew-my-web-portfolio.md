@@ -5,7 +5,7 @@ date: 2012-02-18T19:52:13+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=1581
-permalink: /2012/02/renew-my-web-portfolio/
+
 categories:
   - 仕事
 tags:

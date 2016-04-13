@@ -5,7 +5,7 @@ date: 2009-08-18T02:00:22+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=846
-permalink: /2009/08/abbreviation/
+
 categories:
   - 仕事
 tags:

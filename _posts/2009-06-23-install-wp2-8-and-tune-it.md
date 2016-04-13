@@ -5,7 +5,7 @@ date: 2009-06-23T02:06:18+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/blog/?p=200
-permalink: /2009/06/install-wp2-8-and-tune-it/
+
 categories:
   - 仕事
 tags:

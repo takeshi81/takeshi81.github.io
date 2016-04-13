@@ -5,7 +5,7 @@ date: 2009-11-10T04:47:54+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=868
-permalink: /2009/11/escrito-logo-vivo/
+
 categories:
   - 仕事
 tags:

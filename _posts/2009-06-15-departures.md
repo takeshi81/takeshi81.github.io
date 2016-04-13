@@ -5,7 +5,7 @@ date: 2009-06-15T11:55:14+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=238
-permalink: /2009/06/departures/
+
 categories:
   - 日々
 tags:

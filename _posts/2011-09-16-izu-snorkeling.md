@@ -5,7 +5,7 @@ date: 2011-09-16T02:40:58+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=1341
-permalink: /2011/09/izu-snorkeling/
+
 categories:
   - 日々
 tags:

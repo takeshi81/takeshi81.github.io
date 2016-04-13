@@ -5,7 +5,7 @@ date: 2011-03-15T21:12:39+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=1257
-permalink: /2011/03/peace-in-our-mind/
+
 categories:
   - 日々
 ---

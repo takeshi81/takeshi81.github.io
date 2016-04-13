@@ -5,7 +5,7 @@ date: 2007-07-11T15:22:00+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/blog/2007/07/dr-strangelove-or/
-permalink: /2007/07/dr-strangelove-or/
+
 categories:
   - 日々
 tags:

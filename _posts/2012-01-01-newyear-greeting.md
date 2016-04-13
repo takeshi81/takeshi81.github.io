@@ -5,7 +5,7 @@ date: 2012-01-01T08:00:16+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=1441
-permalink: /2012/01/newyear-greeting/
+
 categories:
   - 日々
 tags:

@@ -5,7 +5,7 @@ date: 2007-03-25T00:30:00+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/blog/2007/03/shutdown-day/
-permalink: /2007/03/shutdown-day/
+
 categories:
   - 日々
 tags:

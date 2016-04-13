@@ -5,7 +5,7 @@ date: 2009-10-08T01:49:33+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=858
-permalink: /2009/10/website-with-good-performance/
+
 aktt_notify_twitter:
   - yes
 aktt_tweeted:

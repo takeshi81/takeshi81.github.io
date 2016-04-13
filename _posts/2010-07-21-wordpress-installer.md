@@ -5,7 +5,7 @@ date: 2010-07-21T02:19:55+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=939
-permalink: /2010/07/wordpress-installer/
+
 categories:
   - 仕事
 tags:

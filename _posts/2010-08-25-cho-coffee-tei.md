@@ -5,7 +5,7 @@ date: 2010-08-25T06:48:56+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=1060
-permalink: /2010/08/cho-coffee-tei/
+
 categories:
   - 日々
 tags:

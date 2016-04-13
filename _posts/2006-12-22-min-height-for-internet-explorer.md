@@ -5,7 +5,7 @@ date: 2006-12-22T07:07:00+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/blog/2006/12/min-height-for-internet-explorer/
-permalink: /2006/12/min-height-for-internet-explorer/
+
 categories:
   - 仕事
 tags:

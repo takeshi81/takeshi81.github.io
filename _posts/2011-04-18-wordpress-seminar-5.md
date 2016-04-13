@@ -5,7 +5,7 @@ date: 2011-04-18T19:39:44+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=1280
-permalink: /2011/04/wordpress-seminar-5/
+
 categories:
   - 仕事
 tags:

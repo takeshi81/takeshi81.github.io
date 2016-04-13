@@ -5,7 +5,7 @@ date: 2009-08-11T01:20:55+00:00
 author: いがらしたけし
 layout: post
 guid: http://www.indigo-design.org/?p=363
-permalink: /2009/08/winner-and-loser/
+
 categories:
   - 日々
 tags:

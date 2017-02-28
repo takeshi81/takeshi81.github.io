@@ -1,7 +1,5 @@
 # Site settings
 title: ひとりWeb開発者日報
-redirect_to:
-  - https://indigo-design.org
 #email: takeshi.igarashi@gmail.com
 description: フリーランスデザイナー兼Webエンジニアっぽい人の日記
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -24,4 +22,3 @@ gems:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
-  - jekyll-redirect-from

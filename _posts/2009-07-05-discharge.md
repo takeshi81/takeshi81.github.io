@@ -4,8 +4,8 @@ title: 復活しました
 date: 2009-07-05T22:47:09+00:00
 author: いがらしたけし
 layout: post
-guid: http://www.indigo-design.org/?p=258
-
+guid: http://indigo-design.dev.test/?p=258
+permalink: /2009/07/discharge/
 categories:
   - 日々
 tags:

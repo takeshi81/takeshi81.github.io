@@ -4,8 +4,8 @@ title: 2012年 年頭のご挨拶
 date: 2012-01-01T08:00:16+00:00
 author: いがらしたけし
 layout: post
-guid: http://www.indigo-design.org/?p=1441
-
+guid: http://indigo-design.dev.test/?p=1441
+permalink: /2012/01/newyear-greeting/
 categories:
   - 日々
 tags:
@@ -15,8 +15,7 @@ tags:
   - newyear
   - 日々
 ---
-[<img src="https://lh5.googleusercontent.com/-xzaSAtatIAk/Tv5q09SXs0I/AAAAAAAAAUg/--NqiokTkIM/s288/120101_newyear.jpg" height="194" width="288" />](https://picasaweb.google.com/lh/photo/StWxHDs7wa2jd7KqL-__WfDUdFBYrKYna69gqCnW--U?feat=embedwebsite)
-  
+<a href="https://picasaweb.google.com/lh/photo/StWxHDs7wa2jd7KqL-__WfDUdFBYrKYna69gqCnW--U?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-xzaSAtatIAk/Tv5q09SXs0I/AAAAAAAAAUg/--NqiokTkIM/s288/120101_newyear.jpg" height="194" width="288" /></a>
 (illustration by takeshi81)
 
 たけしです。新年、いかがお過ごしでしょうか。

@@ -4,8 +4,8 @@ title: 心の平穏を
 date: 2011-03-15T21:12:39+00:00
 author: いがらしたけし
 layout: post
-guid: http://www.indigo-design.org/?p=1257
-
+guid: http://indigo-design.dev.test/?p=1257
+permalink: /2011/03/peace-in-our-mind/
 categories:
   - 日々
 ---
@@ -17,10 +17,8 @@ categories:
 
 あとは好きなアーティストを選べばよいでしょう。自分はレイ・ハラカミに少し坂本龍一を混ぜて、ランダムでかけてます。 
 
-もうちょっと温かいのがよければ、Sadeとかかな。
-  
-<http://t.co/P6X1AX5> 
+もうちょっと温かいのがよければ、Sadeとかかな。 
+<a href="http://t.co/P6X1AX5">http://t.co/P6X1AX5</a> 
 
-ネットからも人々のいらだちを感じます。こういう時なので無理も無いことです。
-  
+ネットからも人々のいらだちを感じます。こういう時なので無理も無いことです。 
 皆が心の平穏を取り戻して、一緒に前へ歩み出せる時が来ることを願っています。

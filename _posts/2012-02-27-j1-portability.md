@@ -4,8 +4,8 @@ title: J1は携帯しやすいのがよいね
 date: 2012-02-27T10:00:15+00:00
 author: いがらしたけし
 layout: post
-guid: http://www.indigo-design.org/?p=1604
-
+guid: http://indigo-design.dev.test/?p=1604
+permalink: /2012/02/j1-portability/
 categories:
   - 日々
 tags:
@@ -15,11 +15,10 @@ tags:
   - Review
   - 仕事
 ---
-[<img src="http://farm8.staticflickr.com/7052/6783007636_25dcc90603.jpg" width="500" height="334" alt="I slept well..." />](http://www.flickr.com/photos/takeshi81/6783007636/ "I slept well... by Takeshi+81, on Flickr")
-  
+<a href="http://www.flickr.com/photos/takeshi81/6783007636/" title="I slept well... by Takeshi+81, on Flickr"><img src="http://farm8.staticflickr.com/7052/6783007636_25dcc90603.jpg" width="500" height="334" alt="I slept well..."></a>
 <small>Nikon 1 J1 / 10mm f2.8 / Program AE</small>
 
-今日はコワーキングスペース「[ネコワーキング](http://necoworking.com/)」の看板息子キングの寝起き顔です。ぼーっとしてますね。ちょっと間が抜けた顔もかわいいです。
+今日はコワーキングスペース「<a href="http://necoworking.com/">ネコワーキング</a>」の看板息子キングの寝起き顔です。ぼーっとしてますね。ちょっと間が抜けた顔もかわいいです。
 
 最近Nikon 1 J1の記事をいくつか書いたのですが、日頃あまりアクセスの多くないブログにしてはJ1の記事はよく見てもらえてまして、みんな関心はあるのかな、と思ったりしているところです。コンパクトデジカメと迷ったり、他のミラーレスと比べてみたり、いろいろ考えますよね。買い求めやすい値段になったとは言え、安い買い物ではないですし。
 

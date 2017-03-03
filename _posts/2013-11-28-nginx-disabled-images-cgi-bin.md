@@ -4,8 +4,8 @@ title: nginxでcgi-bin配下の画像などが表示されない！
 date: 2013-11-28T00:58:14+00:00
 author: いがらしたけし
 layout: post
-guid: http://www.indigo-design.org/?p=1800
-
+guid: http://indigo-design.dev.test/?p=1800
+permalink: /2013/11/nginx-disabled-images-cgi-bin/
 categories:
   - 仕事
 tags:
@@ -14,7 +14,7 @@ tags:
   - Server
   - Web
 ---
-[<img src="/wp-content/uploads/2013/11/Nginx_logo.gif" alt="Nginx_logo" width="320" height="67" class="alignnone size-full wp-image-1801" />](/wp-content/uploads/2013/11/Nginx_logo.gif)
+<a href="https://indigo-design.org/wp-content/uploads/2013/11/Nginx_logo.gif"><img src="https://indigo-design.org/wp-content/uploads/2013/11/Nginx_logo.gif" alt="Nginx_logo" width="320" height="67" class="alignnone size-full wp-image-1801" /></a>
 
 WebサーバでPerlなどのCGIスクリプトを設置するとき、セキュリティの関係でサーバによっては、cgi-binというディレクトリを利用することがあります。一般的にcgi-binにはスクリプトファイルのみを置くことになっているので、スクリプトから参照したい画像やHTML、スタイルシートなどをcgi-bin配下に置いても表示することは出来ません。
 
@@ -28,7 +28,8 @@ WebサーバがApacheの場合には、「cgi-bin 画像」などで検索すれ
 
 次に、nginx.conf（場合により sites-available/example.com.vhost など、ご自分の環境に合わせて）に書き加えます。
 
-<pre class="decode:1 " >location /cgi-bin/hoge/images/ {
+<pre class="decode:1 " >
+location /cgi-bin/hoge/images/ {
     alias /var/www/example.com/web/hoge/images/;
 }
 </pre>

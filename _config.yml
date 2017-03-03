@@ -22,3 +22,5 @@ gems:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
+whitelist:
+  - jekyll-redirect-from

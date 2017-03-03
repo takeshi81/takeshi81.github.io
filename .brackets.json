@@ -1,9 +1,0 @@
-{
-    "path": {
-        "css/main.scss": {
-            "sass.enabled": false,
-            "linting.collapsed": true,
-            "brackets-git.gitPath": "/usr/local/bin/git"
-        }
-    }
-}

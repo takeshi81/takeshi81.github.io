@@ -6,6 +6,8 @@ author: いがらしたけし
 layout: post
 guid: 'http://indigo-design.org/2006/04/%e8%8f%85%e4%ba%95%e5%90%9b%e3%81%a8%e5%ae%b6%e6%97%8f%e7%9f%b3-sguy-the-family-stone/'
 permalink: '/2006/04/%e8%8f%85%e4%ba%95%e5%90%9b%e3%81%a8%e5%ae%b6%e6%97%8f%e7%9f%b3-sguy-the-family-stone/'
+redirect_to:
+  - https://indigo-design.org/2006/04/%e8%8f%85%e4%ba%95%e5%90%9b%e3%81%a8%e5%ae%b6%e6%97%8f%e7%9f%b3-sguy-the-family-stone/
 categories:
   - 日々
 tags:

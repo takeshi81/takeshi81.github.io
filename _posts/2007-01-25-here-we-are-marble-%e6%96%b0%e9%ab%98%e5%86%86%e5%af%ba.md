@@ -6,6 +6,8 @@ author: いがらしたけし
 layout: post
 guid: 'http://indigo-design.org/2007/01/here-we-are-marble-%e6%96%b0%e9%ab%98%e5%86%86%e5%af%ba/'
 permalink: '/2007/01/here-we-are-marble-%e6%96%b0%e9%ab%98%e5%86%86%e5%af%ba/'
+redirect_to:
+  - https://indigo-design.org/2007/01/here-we-are-marble-%e6%96%b0%e9%ab%98%e5%86%86%e5%af%ba/
 categories:
   - 日々
 tags:

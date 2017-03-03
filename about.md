@@ -2,6 +2,8 @@
 layout: page
 title: Who am I?
 permalink: /about/
+redirect_to:
+  - https:indigo-design.org/about
 ---
 
 # Profile

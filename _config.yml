@@ -4,6 +4,11 @@ title: ひとりWeb開発者日報
 description: フリーランスデザイナー兼Webエンジニアっぽい人の日記
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://takeshi81.github.io" # the base hostname & protocol for your site
+<<<<<<< HEAD
+=======
+redirect_to:
+  - https://indigo-design.org
+>>>>>>> origin/master
 permalink: /:year/:month/:title
 timezone: Asia/Tokyo
 paginate: 10

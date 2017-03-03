@@ -5,7 +5,7 @@ date: 2010-07-18T03:08:55+00:00
 author: いがらしたけし
 excerpt: サーバの移転を機に「ネットワーク」を有効にした一つのWordPressでマルチブログ運用にしてみようと思ったのでした。
 layout: post
-guid: http://indigo-design.dev.test/?p=924
+guid: http://indigo-design.org/?p=924
 permalink: /2010/07/wordpress-blogs-integration/
 categories:
   - 仕事

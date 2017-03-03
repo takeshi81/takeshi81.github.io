@@ -4,7 +4,7 @@ title: ニコンダイレクトで、V1/J1を値下げ販売中
 date: 2013-06-29T09:13:11+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1792
+guid: http://indigo-design.org/?p=1792
 permalink: /2013/06/nikon-direct-outlet/
 categories:
   - 日々

@@ -4,7 +4,7 @@ title: 次の新学期から
 date: 2010-03-03T16:20:59+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=893
+guid: http://indigo-design.org/?p=893
 permalink: /2010/03/teach-and-learn/
 categories:
   - 日々

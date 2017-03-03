@@ -4,7 +4,7 @@ title: Shutdown Day
 date: 2007-03-25T00:30:00+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/blog/2007/03/shutdown-day/
+guid: http://indigo-design.org/2007/03/shutdown-day/
 permalink: /2007/03/shutdown-day/
 categories:
   - 日々

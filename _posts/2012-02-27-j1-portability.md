@@ -4,7 +4,7 @@ title: J1は携帯しやすいのがよいね
 date: 2012-02-27T10:00:15+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1604
+guid: http://indigo-design.org/?p=1604
 permalink: /2012/02/j1-portability/
 categories:
   - 日々

@@ -4,7 +4,7 @@ title: 「WordPressとおやつの会」開催しますよ
 date: 2010-08-27T04:43:47+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1075
+guid: http://indigo-design.org/?p=1075
 permalink: /2010/08/wordpress-seminar-beta/
 categories:
   - 仕事

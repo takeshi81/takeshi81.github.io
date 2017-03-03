@@ -4,7 +4,7 @@ title: '[EC] 続・消費税計算と総額表示'
 date: 2009-08-02T01:27:14+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=316
+guid: http://indigo-design.org/?p=316
 permalink: /2009/08/calculate-consumption-tax-2/
 categories:
   - 仕事

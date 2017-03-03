@@ -4,7 +4,7 @@ title: WordPressとおやつの会入門編
 date: 2011-07-01T00:02:06+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1303
+guid: http://indigo-design.org/?p=1303
 permalink: /2011/07/wordpress-oyatsu-entry/
 categories:
   - 仕事

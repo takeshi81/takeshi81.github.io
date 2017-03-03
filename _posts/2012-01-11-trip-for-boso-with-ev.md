@@ -4,7 +4,7 @@ title: 電気自動車に乗って房総まで行ってみたよ
 date: 2012-01-11T10:00:21+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1475
+guid: http://indigo-design.org/?p=1475
 permalink: /2012/01/trip-for-boso-with-ev/
 categories:
   - 日々

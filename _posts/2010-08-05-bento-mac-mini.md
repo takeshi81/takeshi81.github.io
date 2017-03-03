@@ -4,7 +4,7 @@ title: 昨日のお弁当 = Mac mini
 date: 2010-08-05T23:37:49+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=983
+guid: http://indigo-design.org/?p=983
 permalink: /2010/08/bento-mac-mini/
 categories:
   - 日々

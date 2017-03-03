@@ -4,7 +4,7 @@ title: '[日記] 寝過ごした午後、超珈琲亭でコーヒー豆を買う
 date: 2010-08-25T06:48:56+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1060
+guid: http://indigo-design.org/?p=1060
 permalink: /2010/08/cho-coffee-tei/
 categories:
   - 日々

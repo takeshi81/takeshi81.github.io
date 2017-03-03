@@ -4,7 +4,7 @@ title: PVって何の略だ？ページビューと答えたあなたは仕事�
 date: 2009-08-18T02:00:22+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=846
+guid: http://indigo-design.org/?p=846
 permalink: /2009/08/abbreviation/
 categories:
   - 仕事

@@ -4,7 +4,7 @@ title: MySQL 5.5ではdefault-character-setが廃止されてた…
 date: 2012-01-05T10:00:27+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1452
+guid: http://indigo-design.org/?p=1452
 permalink: /2012/01/mysql-5-5-default-character-set/
 categories:
   - 仕事

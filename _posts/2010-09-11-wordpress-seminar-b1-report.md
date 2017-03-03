@@ -4,7 +4,7 @@ title: 9/3 WordPressとおやつの会 ご報告
 date: 2010-09-11T02:06:14+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1108
+guid: http://indigo-design.org/?p=1108
 permalink: /2010/09/wordpress-seminar-b1-report/
 categories:
   - 仕事

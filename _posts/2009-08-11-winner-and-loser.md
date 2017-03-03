@@ -4,7 +4,7 @@ title: 対照的な二人
 date: 2009-08-11T01:20:55+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=363
+guid: http://indigo-design.org/?p=363
 permalink: /2009/08/winner-and-loser/
 categories:
   - 日々

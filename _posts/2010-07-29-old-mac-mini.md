@@ -5,7 +5,7 @@ date: 2010-07-29T02:58:15+00:00
 author: いがらしたけし
 excerpt: 新型Mac miniは筐体を開けるのが楽で、パーツ交換も楽勝のようですが、旧型Mac miniはそうではありませんでした。でも、上の動画では工具を使って一発で開けてますね。
 layout: post
-guid: http://indigo-design.dev.test/?p=962
+guid: http://indigo-design.org/?p=962
 permalink: /2010/07/old-mac-mini/
 categories:
   - 日々

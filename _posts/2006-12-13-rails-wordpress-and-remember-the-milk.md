@@ -4,7 +4,7 @@ title: Rails, WordPress and Remember The Milk.
 date: 2006-12-13T02:37:00+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/blog/2006/12/rails-wordpress-and-remember-the-milk/
+guid: http://indigo-design.org/2006/12/rails-wordpress-and-remember-the-milk/
 permalink: /2006/12/rails-wordpress-and-remember-the-milk/
 categories:
   - 日々

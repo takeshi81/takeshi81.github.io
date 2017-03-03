@@ -4,7 +4,7 @@ title: '菅井君と家族石 / Sguy &#038; The Family Stone'
 date: 2006-04-26T02:15:53+00:00
 author: いがらしたけし
 layout: post
-guid: 'http://indigo-design.dev.test/blog/2006/04/%e8%8f%85%e4%ba%95%e5%90%9b%e3%81%a8%e5%ae%b6%e6%97%8f%e7%9f%b3-sguy-the-family-stone/'
+guid: 'http://indigo-design.org/2006/04/%e8%8f%85%e4%ba%95%e5%90%9b%e3%81%a8%e5%ae%b6%e6%97%8f%e7%9f%b3-sguy-the-family-stone/'
 permalink: '/2006/04/%e8%8f%85%e4%ba%95%e5%90%9b%e3%81%a8%e5%ae%b6%e6%97%8f%e7%9f%b3-sguy-the-family-stone/'
 categories:
   - 日々

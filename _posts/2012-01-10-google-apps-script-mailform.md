@@ -4,7 +4,7 @@ title: Google ドキュメントでフォーム送信すると自動返信する
 date: 2012-01-10T10:00:51+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1469
+guid: http://indigo-design.org/?p=1469
 permalink: /2012/01/google-apps-script-mailform/
 categories:
   - 仕事

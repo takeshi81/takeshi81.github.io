@@ -4,7 +4,7 @@ title: 'WordPressとおやつの会 #3 は新春1/7金曜夜！'
 date: 2010-12-27T03:29:30+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1212
+guid: http://indigo-design.org/?p=1212
 permalink: /2010/12/wordpress-seminar-3/
 categories:
   - 仕事

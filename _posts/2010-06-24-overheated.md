@@ -4,7 +4,7 @@ title: 業務連絡（あるいは、オーバーヒート）
 date: 2010-06-24T04:13:20+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=922
+guid: http://indigo-design.org/?p=922
 permalink: /2010/06/overheated/
 categories:
   - 仕事

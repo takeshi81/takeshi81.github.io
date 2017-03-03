@@ -4,7 +4,7 @@ title: ブログ引っ越し記：WordPress 2.8 + PDO (SQlite) For WordPress 導
 date: 2009-06-23T02:06:18+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/blog/?p=200
+guid: http://indigo-design.org/?p=200
 permalink: /2009/06/install-wp2-8-and-tune-it/
 categories:
   - 仕事

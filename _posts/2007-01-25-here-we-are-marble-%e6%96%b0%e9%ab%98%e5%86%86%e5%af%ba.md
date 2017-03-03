@@ -4,7 +4,7 @@ title: HERE WE ARE marble @ 新高円寺
 date: 2007-01-25T02:16:00+00:00
 author: いがらしたけし
 layout: post
-guid: 'http://indigo-design.dev.test/blog/2007/01/here-we-are-marble-%e6%96%b0%e9%ab%98%e5%86%86%e5%af%ba/'
+guid: 'http://indigo-design.org/2007/01/here-we-are-marble-%e6%96%b0%e9%ab%98%e5%86%86%e5%af%ba/'
 permalink: '/2007/01/here-we-are-marble-%e6%96%b0%e9%ab%98%e5%86%86%e5%af%ba/'
 categories:
   - 日々

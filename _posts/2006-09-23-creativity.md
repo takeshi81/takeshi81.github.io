@@ -4,7 +4,7 @@ title: Creativity
 date: 2006-09-23T00:27:00+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/blog/2006/09/creativity/
+guid: http://indigo-design.org/2006/09/creativity/
 permalink: /2006/09/creativity/
 categories:
   - 日々

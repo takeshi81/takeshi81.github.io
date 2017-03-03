@@ -4,7 +4,7 @@ title: 3月のWordPressとおやつの会、水道橋ネコワーキングで
 date: 2013-03-07T15:31:05+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1766
+guid: http://indigo-design.org/?p=1766
 permalink: /2013/03/wordpress-oyatsu-march2013/
 categories:
   - 仕事

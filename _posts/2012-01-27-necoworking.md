@@ -4,7 +4,7 @@ title: ネコ+コワーキング=「ネコワーキング」
 date: 2012-01-27T10:00:46+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1519
+guid: http://indigo-design.org/?p=1519
 permalink: /2012/01/necoworking/
 categories:
   - 仕事

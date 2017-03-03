@@ -4,7 +4,7 @@ title: WordPressのインストーラーで毎回接続情報を聞かれる場�
 date: 2010-07-21T02:19:55+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=939
+guid: http://indigo-design.org/?p=939
 permalink: /2010/07/wordpress-installer/
 categories:
   - 仕事

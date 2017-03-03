@@ -4,7 +4,7 @@ title: 東京都民が住みたい街は3年連続「吉祥寺」
 date: 2010-01-14T23:31:04+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=877
+guid: http://indigo-design.org/?p=877
 permalink: /2010/01/most-livable-city-in-tokyo/
 categories:
   - 日々

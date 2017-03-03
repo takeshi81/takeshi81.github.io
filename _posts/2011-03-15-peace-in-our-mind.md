@@ -4,7 +4,7 @@ title: 心の平穏を
 date: 2011-03-15T21:12:39+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1257
+guid: http://indigo-design.org/?p=1257
 permalink: /2011/03/peace-in-our-mind/
 categories:
   - 日々

@@ -4,7 +4,7 @@ title: 「フリーランス Advent Calendar 2014」15日目
 date: 2014-12-15T23:43:16+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=2107
+guid: http://indigo-design.org/?p=2107
 permalink: /2014/12/my-current-workstyle/
 categories:
   - 日々

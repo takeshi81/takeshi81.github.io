@@ -4,7 +4,7 @@ title: 'WordPressとおやつの会 #5 ご参加ありがとうございまし�
 date: 2011-05-24T01:44:22+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1293
+guid: http://indigo-design.org/?p=1293
 permalink: /2011/05/wordpress-oyatsu5-report/
 categories:
   - 仕事

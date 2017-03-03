@@ -4,7 +4,7 @@ title: OLYMPUS PEN LITE E-PL1 導入！
 date: 2010-07-25T10:15:43+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=948
+guid: http://indigo-design.org/?p=948
 permalink: /2010/07/olympus-pen-lite-e-pl1/
 categories:
   - 仕事

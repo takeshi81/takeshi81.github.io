@@ -4,7 +4,7 @@ title: Vingtaine?
 date: 2005-12-13T03:10:49+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/blog/2005/12/vingtaine/
+guid: http://indigo-design.org/2005/12/vingtaine/
 permalink: /2005/12/vingtaine/
 categories:
   - 日々

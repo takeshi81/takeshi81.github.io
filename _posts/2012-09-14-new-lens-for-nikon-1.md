@@ -4,7 +4,7 @@ title: '[カメラ] Nikon 1 の標準レンズ、11月発売'
 date: 2012-09-14T09:00:01+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1668
+guid: http://indigo-design.org/?p=1668
 permalink: /2012/09/new-lens-for-nikon-1/
 categories:
   - 日々

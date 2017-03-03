@@ -4,7 +4,7 @@ title: 'WordPressとおやつの会 #5 は特別編'
 date: 2011-04-18T19:39:44+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1280
+guid: http://indigo-design.org/?p=1280
 permalink: /2011/04/wordpress-seminar-5/
 categories:
   - 仕事

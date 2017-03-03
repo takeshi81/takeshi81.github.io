@@ -4,7 +4,7 @@ title: Welcartで代引手数料以外の手数料を加算する
 date: 2012-11-07T12:48:24+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1721
+guid: http://indigo-design.org/?p=1721
 permalink: /2012/11/additional-fee-on-welcart/
 categories:
   - 仕事

@@ -4,7 +4,7 @@ title: EC-CUBEをMySQLで動かして文字化けが起こるとき
 date: 2010-08-09T20:48:22+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=997
+guid: http://indigo-design.org/?p=997
 permalink: /2010/08/gabled-characters-on-ec-cube-and-mysql/
 categories:
   - 仕事

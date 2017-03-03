@@ -4,7 +4,7 @@ title: '[ホスティング] 低価格でも高速らしいSixcoreを早速試�
 date: 2009-07-29T17:06:30+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=272
+guid: http://indigo-design.org/?p=272
 permalink: /2009/07/sixcore-review/
 categories:
   - 仕事

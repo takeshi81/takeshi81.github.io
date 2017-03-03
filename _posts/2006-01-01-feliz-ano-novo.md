@@ -4,7 +4,7 @@ title: Feliz ano novo!
 date: 2006-01-01T02:27:36+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/blog/2006/01/feliz-ano-novo/
+guid: http://indigo-design.org/2006/01/feliz-ano-novo/
 permalink: /2006/01/feliz-ano-novo/
 categories:
   - 日々

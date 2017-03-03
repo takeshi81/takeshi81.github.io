@@ -4,7 +4,7 @@ title: 北欧雑貨店、はじめます。
 date: 2012-09-21T16:01:57+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1673
+guid: http://indigo-design.org/?p=1673
 permalink: /2012/09/nordic-goods-store/
 categories:
   - 仕事

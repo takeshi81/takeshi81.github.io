@@ -4,7 +4,7 @@ title: 業績の上がらないWebサイトは、いくらかっこよくても�
 date: 2009-10-08T01:49:33+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=858
+guid: http://indigo-design.org/?p=858
 permalink: /2009/10/website-with-good-performance/
 aktt_notify_twitter:
   - 'yes'

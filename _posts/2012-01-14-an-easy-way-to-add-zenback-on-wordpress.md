@@ -4,7 +4,7 @@ title: WordPressで簡単にzenbackを導入する方法
 date: 2012-01-14T10:00:41+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1494
+guid: http://indigo-design.org/?p=1494
 permalink: /2012/01/an-easy-way-to-add-zenback-on-wordpress/
 categories:
   - 仕事

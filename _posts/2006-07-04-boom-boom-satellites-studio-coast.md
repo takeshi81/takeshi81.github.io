@@ -4,7 +4,7 @@ title: BOOM BOOM SATELLITES @ STUDIO COAST
 date: 2006-07-04T03:41:23+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/blog/2006/07/boom-boom-satellites-studio-coast/
+guid: http://indigo-design.org/2006/07/boom-boom-satellites-studio-coast/
 permalink: /2006/07/boom-boom-satellites-studio-coast/
 categories:
   - 日々

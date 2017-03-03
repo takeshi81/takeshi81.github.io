@@ -4,7 +4,7 @@ title: WordPressとおやつの会入門編＠新宿御苑前、3/31です！
 date: 2012-03-14T09:30:52+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1612
+guid: http://indigo-design.org/?p=1612
 permalink: /2012/03/wp-oyatsu-beginner-5/
 categories:
   - 仕事

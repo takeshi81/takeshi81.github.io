@@ -4,7 +4,7 @@ title: Escrito, logo vivo.
 date: 2009-11-10T04:47:54+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=868
+guid: http://indigo-design.org/?p=868
 permalink: /2009/11/escrito-logo-vivo/
 categories:
   - 仕事

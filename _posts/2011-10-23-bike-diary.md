@@ -4,7 +4,7 @@ title: 自転車日記（あと、みかんとかリュックサックとか）
 date: 2011-10-23T01:24:10+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1369
+guid: http://indigo-design.org/?p=1369
 permalink: /2011/10/bike-diary/
 categories:
   - 日々

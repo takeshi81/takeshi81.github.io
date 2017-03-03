@@ -4,7 +4,7 @@ title: WordPressだって絵文字が使えます：TypePad emoji for TinyMCE
 date: 2012-01-13T10:00:54+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1486
+guid: http://indigo-design.org/?p=1486
 permalink: /2012/01/typepad-emoji-for-tinymce/
 categories:
   - 仕事

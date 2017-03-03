@@ -4,7 +4,7 @@ title: 使うほどによいカメラ Nikon 1 J1、3万円割り込んだ記念�
 date: 2012-02-20T10:00:10+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1575
+guid: http://indigo-design.org/?p=1575
 permalink: /2012/02/nikon-1-j1-review/
 categories:
   - 日々

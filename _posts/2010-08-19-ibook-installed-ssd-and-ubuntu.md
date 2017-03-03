@@ -4,7 +4,7 @@ title: SSDでUbuntuなiBook G4
 date: 2010-08-19T15:30:56+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1006
+guid: http://indigo-design.org/?p=1006
 permalink: /2010/08/ibook-installed-ssd-and-ubuntu/
 categories:
   - 仕事

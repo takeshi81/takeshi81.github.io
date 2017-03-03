@@ -4,7 +4,7 @@ title: 「顧客が本当に必要だったもの」
 date: 2015-06-12T15:23:38+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=2321
+guid: http://indigo-design.org/?p=2321
 permalink: /2015/06/how-projects-really-work/
 categories:
   - 仕事

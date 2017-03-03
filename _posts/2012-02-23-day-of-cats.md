@@ -4,7 +4,7 @@ title: 2月22日は猫の日だったらしいです
 date: 2012-02-23T10:00:09+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1596
+guid: http://indigo-design.org/?p=1596
 permalink: /2012/02/day-of-cats/
 categories:
   - 日々

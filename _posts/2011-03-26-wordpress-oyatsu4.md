@@ -4,7 +4,7 @@ title: 'WordPressとおやつの会 #4 やります'
 date: 2011-03-26T23:24:51+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1260
+guid: http://indigo-design.org/?p=1260
 permalink: /2011/03/wordpress-oyatsu4/
 categories:
   - 仕事

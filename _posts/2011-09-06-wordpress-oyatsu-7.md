@@ -4,7 +4,7 @@ title: 'WordPressとおやつの会 #7 は特別編、9/19午後ですよ'
 date: 2011-09-06T01:23:53+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1331
+guid: http://indigo-design.org/?p=1331
 permalink: /2011/09/wordpress-oyatsu-7/
 categories:
   - 仕事

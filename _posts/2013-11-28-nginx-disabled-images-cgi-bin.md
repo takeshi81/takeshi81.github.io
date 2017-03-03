@@ -4,7 +4,7 @@ title: nginxでcgi-bin配下の画像などが表示されない！
 date: 2013-11-28T00:58:14+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1800
+guid: http://indigo-design.org/?p=1800
 permalink: /2013/11/nginx-disabled-images-cgi-bin/
 categories:
   - 仕事

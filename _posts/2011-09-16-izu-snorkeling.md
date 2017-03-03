@@ -4,7 +4,7 @@ title: 碧い海を求めて、南伊豆へ。
 date: 2011-09-16T02:40:58+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1341
+guid: http://indigo-design.org/?p=1341
 permalink: /2011/09/izu-snorkeling/
 categories:
   - 日々

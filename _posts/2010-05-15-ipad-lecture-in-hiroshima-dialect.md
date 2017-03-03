@@ -4,7 +4,7 @@ title: iPadの説明するけぇ、よう聞きんさい。
 date: 2010-05-15T05:33:25+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=913
+guid: http://indigo-design.org/?p=913
 permalink: /2010/05/ipad-lecture-in-hiroshima-dialect/
 categories:
   - 日々

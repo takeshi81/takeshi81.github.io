@@ -4,7 +4,7 @@ title: 2012年 年頭のご挨拶
 date: 2012-01-01T08:00:16+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1441
+guid: http://indigo-design.org/?p=1441
 permalink: /2012/01/newyear-greeting/
 categories:
   - 日々

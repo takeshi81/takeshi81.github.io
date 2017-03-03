@@ -4,7 +4,7 @@ title: また引っ越しました（実家が）
 date: 2012-04-20T10:00:54+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1631
+guid: http://indigo-design.org/?p=1631
 permalink: /2012/04/moving-my-mothers-house/
 categories:
   - 日々

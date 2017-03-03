@@ -4,7 +4,7 @@ title: 「PhotoshopによるWebデザインカンプ制作はFireworksに比べ�
 date: 2013-05-10T09:00:38+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1784
+guid: http://indigo-design.org/?p=1784
 permalink: /2013/05/rip-fireworks/
 authorsure_include_css:
   - ""

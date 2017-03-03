@@ -4,7 +4,7 @@ title: 直感的笠間旅行
 date: 2011-01-12T14:38:57+00:00
 author: いがらしたけし
 layout: post
-guid: http://indigo-design.dev.test/?p=1233
+guid: http://indigo-design.org/?p=1233
 permalink: /2011/01/excursion-on-instinct/
 categories:
   - 日々

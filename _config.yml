@@ -19,7 +19,7 @@ gems:
   - jemoji
   - jekyll-mentions
   - jekyll-redirect-from
-  - jekyll-sitemap
+#  - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
 whitelist:
